@@ -1,1 +1,2 @@
-README.md de prueba
+Para ejecutar este ejemplo:
+python main.py
